@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqiPXlHm+YoNFk4oN1GbI/26myZErD61/3wDG6RnpYlxnZ0iq4E5Jd3/bvr0oRV5CzAoHiaQVDUYic9Z5L0zEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caleb\\OneDrive\\Desktop\\Repos\\APICurrentForecast\\APICurrentForecast\\APICurrentForecast\\APICurrentForecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caleb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

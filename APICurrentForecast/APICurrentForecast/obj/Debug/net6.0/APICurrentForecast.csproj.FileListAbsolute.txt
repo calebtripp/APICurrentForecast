@@ -1,0 +1,17 @@
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\APICurrentForecast.csproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\APICurrentForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\APICurrentForecast.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\APICurrentForecast.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\APICurrentForecast.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\bin\Debug\net6.0\APICurrentForecast.exe
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\bin\Debug\net6.0\APICurrentForecast.deps.json
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\bin\Debug\net6.0\APICurrentForecast.runtimeconfig.json
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\bin\Debug\net6.0\APICurrentForecast.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\bin\Debug\net6.0\APICurrentForecast.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\APICurrentForecast.csproj.CopyComplete
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\APICurrentForecast.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\refint\APICurrentForecast.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\APICurrentForecast.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\APICurrentForecast.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\APICurrentForecast\APICurrentForecast\APICurrentForecast\obj\Debug\net6.0\ref\APICurrentForecast.dll
