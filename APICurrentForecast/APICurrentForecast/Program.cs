@@ -32,8 +32,8 @@ namespace APICurrentForecast
             while (apiGeoResponse == "[]")
             {
                 Console.WriteLine($"\nOur records show:\nCITY: {userCity}   &   STATE: {userState}\n\n" +
-                $"Does not currently exist in the US...Yikes! \nWe really want to help you get the forecast you need, could you confirm " +
-                $"your input/spelling and try again? \nIf that doesn't work, maybe contact your local " +
+                $"Does not currently exist in the US...Yikes! \nWe really want to help you get the forecast you need," +
+                $" could you confirm your input/spelling and try again? \nIf that doesn't work, maybe contact your local " +
                 $"cartographer? They know what's where. \n" +
                 $"If that's not really your thing, you could always try turning it off and then back on again.\n");
 
