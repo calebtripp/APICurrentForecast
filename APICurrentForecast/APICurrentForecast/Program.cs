@@ -12,6 +12,8 @@ namespace APICurrentForecast
     {
         static void Main(string[] args)
         {
+
+
             var client = new HttpClient();
             var city = "Harrisburg";
             var state = "PA";
